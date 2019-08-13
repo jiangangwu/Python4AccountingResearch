@@ -1,5 +1,5 @@
 # Python4AccountingResearch
-P
+
 本课程主要针对会计系研究生开设的python十小时教程，主要内容有：
 
 1. 入门：主要介绍Python基本知识，帮助自学
